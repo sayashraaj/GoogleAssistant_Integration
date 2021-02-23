@@ -21,9 +21,11 @@ Thanking You
 Sayash Raaj Hiraou
 ce19b113@smail.iitm.ac.in
 
-## Working project ##
+## Working project (GIF) ##
 
 ![Screen](screenrecordgif.gif?raw=true "Screen")
+
+Video with audio commands for the same is in the repository folder :)
 
 ## Tech Stack used ##
 
