@@ -2,7 +2,7 @@
 
 Hi, welcome to Sayash Raaj Hiraou's submission
 
-This repository has the frontend React.js portion in the main folder and the backend Node.js part in the 'Nodee' folder
+This repository has the frontend **React.js** portion in the main folder and the backend **Node.js** part in the 'Nodee' folder
 Open them in different terminals
 For react: npm start in the main directory
 For node: node index.js in the nodee directory
@@ -15,7 +15,7 @@ The useEffect hook along with useState state management in React allows for dyna
 
 The backend controls the shell from which it is running and thus using the .exec command the shell can be used with any and all commands possible to use in any shell or command line interface (CLI)
 
-The project uses GCP, node.js, react.js, and shell scripting. This covers a wide domain of development and technological stack, thus making this the best solution with the most amount of effort and also maximising the return on effort, offering the best quality tech ideas with a completely working project
+The project uses **GCP, node.js, react.js, and shell scripting**. This covers a wide domain of development and technological stack, thus making this the best solution with the most amount of effort and also maximising the return on effort, offering the best quality tech ideas with a completely working project
 
 Thanking You
 Sayash Raaj Hiraou
