@@ -25,10 +25,10 @@ ce19b113@smail.iitm.ac.in
 
 ![Screen](screenrecordgif.gif?raw=true "Screen")
 
-## Working project ##
-
-![Screenshot](screenshot.png?raw=true "Screenshot")
-
 ## Tech Stack used ##
 
 ![Tech Stack](techstack.jpeg?raw=true "Tech Stack")
+
+## Working project screenshot ##
+
+![Screenshot](screenshot.png?raw=true "Screenshot")
