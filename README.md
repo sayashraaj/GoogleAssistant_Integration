@@ -26,3 +26,5 @@ ce19b113@smail.iitm.ac.in
 ![Screenshot](screenshot.png?raw=true "Screenshot")
 
 ## Tech Stack used ##
+
+![Tech Stack](techstack.jpeg?raw=true "Tech Stack")
