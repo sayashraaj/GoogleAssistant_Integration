@@ -1,3 +1,5 @@
+# MTX Hackathon #
+
 Hi, welcome to Sayash Raaj Hiraou's submission
 
 This repository has the frontend React.js portion in the main folder and the backend Node.js part in the 'Nodee' folder
@@ -18,5 +20,7 @@ The project uses GCP, node.js, react.js, and shell scripting. This covers a wide
 Thanking You
 Sayash Raaj Hiraou
 ce19b113@smail.iitm.ac.in
+
+## Tech Stack used ##
 
 ![Tech Stack](screenshot.png?raw=true "Tech Stack")
