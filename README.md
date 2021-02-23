@@ -21,6 +21,8 @@ Thanking You
 Sayash Raaj Hiraou
 ce19b113@smail.iitm.ac.in
 
-## Tech Stack used ##
+## Working project ##
 
-![Tech Stack](screenshot.png?raw=true "Tech Stack")
+![Screenshot](screenshot.png?raw=true "Screenshot")
+
+## Tech Stack used ##
