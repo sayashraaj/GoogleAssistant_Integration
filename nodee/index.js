@@ -12,7 +12,7 @@ app.post('/test', (req,res)=>{
   return res.json({answer: req.body.textquery})
 })
 
-function execShellCommand(cmd) {
+async function execShellCommand(cmd) {
   const exec = require("child_process").exec;
   return new Promise((resolve, reject) => {
     exec(cmd, { maxBuffer: 1024 * 500 }, (error, stdout, stderr) => {
@@ -40,7 +40,7 @@ app.post('/', async (req,res)=>{
       answer = await assistantFunction(textquery)
       console.log(answer)
     }
-    execShellCommand(textquery)
+    await execShellCommand(textquery)
     return res.json({ answer })
   }
   catch(e){
